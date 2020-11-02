@@ -1,10 +1,38 @@
 {
-  "id": "",
-  "name": "",
+  "id": "1951463",
+  "name": "save01",
   "font_family": "iconfont",
   "css_prefix_text": "icon-",
   "description": "",
   "glyphs": [
+    {
+      "icon_id": "1110405",
+      "name": "箭头 左 细",
+      "font_class": "jiantou3",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "4137350",
+      "name": "箭头 右 细",
+      "font_class": "jiantouyouxi",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "17975352",
+      "name": "圆",
+      "font_class": "nav-middle-deep",
+      "unicode": "e80e",
+      "unicode_decimal": 59406
+    },
+    {
+      "icon_id": "17975300",
+      "name": "圆",
+      "font_class": "nav-shallow",
+      "unicode": "e80d",
+      "unicode_decimal": 59405
+    },
     {
       "icon_id": "376107",
       "name": "搜索",
@@ -71,9 +99,16 @@
     {
       "icon_id": "16055339",
       "name": "圆",
-      "font_class": "yuan",
+      "font_class": "nav-deep",
       "unicode": "e655",
       "unicode_decimal": 58965
+    },
+    {
+      "icon_id": "11474324",
+      "name": "play",
+      "font_class": "play",
+      "unicode": "e701",
+      "unicode_decimal": 59137
     }
   ]
 }

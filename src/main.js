@@ -6,9 +6,14 @@ import store from './store'
 import '@/assets/css/reset.css'
 import '@/assets/css/style.scss'
 //导入iconfont样式
-import '@/assets/css/iconfont/iconfont.css'
-
+// import '@/assets/css/icon/inconfont.css'
+import '@/assets/icon/iconfont'
+import http from "@/http";
+Vue.prototype.$http = http
 Vue.config.productionTip = false
+import '@/assets/css/style.scss'
+import '@/assets/css/rotation.scss'
+
 
 new Vue({
   router,
